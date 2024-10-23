@@ -1,0 +1,13 @@
+.par1 {
+    text-align: center;
+    margin: 10px;
+    border: 5px solid black
+}
+
+.par2 {
+    text-align: right;
+}
+
+a:hover {
+    background-color: yellow;
+}
